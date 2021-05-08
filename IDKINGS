@@ -205,9 +205,9 @@ http://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 #EXTINF:-1 group-title="MUZZIK CHANNEL",Muzzik WORLD
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
-=======GRATISAN DPT DARI GUGLING, JGN BAPERAN WOY===========
--------JGN KOPAS AJE, BIKIN NDIRI-----------------
--------KUSTOM DIKIT GPP KELES---------------------
+GRATISAN DPT DARI GUGLING, JGN BAPERAN WOY===========
+JGN KOPAS AJE, BIKIN NDIRI-----------------
+KUSTOM DIKIT GPP KELES---------------------
 MONYONK LOOOOOO BIKIN NDIRI, KOPAS2 AJA JUGA YG KREATIIIIFFFFFF, CUK CUK...
 
 #EXTINF:-1 group-title="Adit Sopo Jarwo" tvg-logo="https://i.ibb.co/v15qQFM/adit.jpg" ,E001 - Dompet Ayah Ketinggalan
@@ -493,7 +493,6 @@ http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:0 tvg-id="arirang-en" group-title="SIARAN DIGITAL 2",ARIRANG 2
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
-﻿
 #EXTINF:-1  tvg-id="3 HD" group-title="INET" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/3hd_480p/playlist.m3u8
 #EXTINF:-1  tvg-id="3 HD" group-title="INET" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
@@ -4412,7 +4411,7 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960657
 https://cdn.youlive-cdn.com/playlist/0565820c787203080467b56699bc2589/1618789752937.m3u8
 #EXTINF:-1 tvg-id="คนธรรมดา นรกเรียกพี่" group-title="Movie Updat"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1618559439_1.jpg",คนธรรมดา นรกเรียกพี่
 https://xxx.77player.xyz:443/hls/e81fb46d424094b337268c3b750706c6/e81fb46d424094b337268c3b750706c6.m3u8
-#EXTINF:-1 tvg-id="มนต์​รัก​ดอก​ผัก​บุ้ง" group-title="Movie Updat"tvg-logo="https://movie2ufree.com/wp-content/uploads/2021/03/Mon-Ruk-Dok-Pak-Bung-717x1024.jpeg",มนต์​รัก​ดอก​ผัก​บุ้ง
+#EXTINF:-1 tvg-id="มนต์" group-title="Movie Updat"tvg-logo="https://movie2ufree.com/wp-content/uploads/2021/03/Mon-Ruk-Dok-Pak-Bung-717x1024.jpeg",มนต์​รัก​ดอก​ผัก​บุ้ง
 https://cdn.livedoomovies.com/hls/b52af6dd67a4b90441fb81742418e7bf/b52af6dd67a4b90441fb81742418e7bf.m3u8
 #EXTINF:-1 tvg-id="ลิโป้ ขุนศึกสะท้านโลกันต์ 2 (2020) " group-title="Movie Updat"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/gl19hj9b9sg8gcckw8.jpg",ลิโป้ ขุนศึกสะท้านโลกันต์ 2 (2020) 
 https://xxx.77player.xyz/hls/f7dab6749e7ad9a8290ab2e565b5e57b/f7dab6749e7ad9a8290ab2e565b5e57b.m3u8
