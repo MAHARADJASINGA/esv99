@@ -1,12 +1,4 @@
-#EXTM3U,
-NEWKINGS
-=======GRATISAN DPT DARI GUGLING, JGN BAPERAN WOY===========
--------JGN KOPAS AJE, BIKIN NDIRI-----------------
--------KUSTOM DIKIT GPP KELES---------------------
-#EXTM3U,
-############################################################### RADIO #######################################################
-########### RADIO CHANNEL #############
-#EXTM3U,
+#EXTM3U :NEWKINGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9s6FzV2.png" group-title="RADIO", PRAMBORS
 http://masima.rastream.com/masima-pramborsjakarta
 
@@ -158,8 +150,6 @@ https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 group-title="Radio",Kristal FM
 http://202.152.73.2:801/kfm
 
-
-======={Smash CHANNEL}=======
 #EXTINF:0 tvg-logo="" group-title="Smash CHANNEL",Smash House of Rock
 http://s3.smashmalta.com:82/live/smash/smash/25.ts
 #EXTINF:0 tvg-logo="" group-title="Smash CHANNEL",Smash Indie Radio
@@ -185,9 +175,6 @@ http://s3.smashmalta.com:82/live/smash/smash/17.ts
 #EXTINF:0 tvg-logo="" group-title="Smash CHANNEL",Smash Studio Cam
 http://s3.smashmalta.com:82/live/smash/smash/21.ts
 
-
-
-========{MUZZIK CHANNEL}=======
 #EXTINF:-1 group-title="MUZZIK CHANNEL",Muzzik
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
  
@@ -218,7 +205,9 @@ http://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 #EXTINF:-1 group-title="MUZZIK CHANNEL",Muzzik WORLD
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
-
+=======GRATISAN DPT DARI GUGLING, JGN BAPERAN WOY===========
+-------JGN KOPAS AJE, BIKIN NDIRI-----------------
+-------KUSTOM DIKIT GPP KELES---------------------
 MONYONK LOOOOOO BIKIN NDIRI, KOPAS2 AJA JUGA YG KREATIIIIFFFFFF, CUK CUK...
 
 #EXTINF:-1 group-title="Adit Sopo Jarwo" tvg-logo="https://i.ibb.co/v15qQFM/adit.jpg" ,E001 - Dompet Ayah Ketinggalan
